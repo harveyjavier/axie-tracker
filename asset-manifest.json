@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/axie-tracker/static/css/main.781825a7.chunk.css",
+    "main.js": "/axie-tracker/static/js/main.78c14b01.chunk.js",
+    "main.js.map": "/axie-tracker/static/js/main.78c14b01.chunk.js.map",
+    "runtime-main.js": "/axie-tracker/static/js/runtime-main.868fa290.js",
+    "runtime-main.js.map": "/axie-tracker/static/js/runtime-main.868fa290.js.map",
+    "static/css/2.f2512455.chunk.css": "/axie-tracker/static/css/2.f2512455.chunk.css",
+    "static/js/2.5756d117.chunk.js": "/axie-tracker/static/js/2.5756d117.chunk.js",
+    "static/js/2.5756d117.chunk.js.map": "/axie-tracker/static/js/2.5756d117.chunk.js.map",
+    "static/js/3.01041e83.chunk.js": "/axie-tracker/static/js/3.01041e83.chunk.js",
+    "static/js/3.01041e83.chunk.js.map": "/axie-tracker/static/js/3.01041e83.chunk.js.map",
+    "index.html": "/axie-tracker/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/axie-tracker/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.781825a7.chunk.css.map": "/axie-tracker/static/css/main.781825a7.chunk.css.map",
+    "static/js/2.5756d117.chunk.js.LICENSE.txt": "/axie-tracker/static/js/2.5756d117.chunk.js.LICENSE.txt",
+    "static/media/ai-logo.d4bcd642.png": "/axie-tracker/static/media/ai-logo.d4bcd642.png",
+    "static/media/error.53833ea3.gif": "/axie-tracker/static/media/error.53833ea3.gif",
+    "static/media/loading.61a8a51d.gif": "/axie-tracker/static/media/loading.61a8a51d.gif",
+    "static/media/warning.f6b68e09.gif": "/axie-tracker/static/media/warning.f6b68e09.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.868fa290.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.5756d117.chunk.js",
+    "static/css/main.781825a7.chunk.css",
+    "static/js/main.78c14b01.chunk.js"
+  ]
+}
